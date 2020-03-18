@@ -1,0 +1,19 @@
+{
+  "name": "jest_pup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^25.1.0",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "babel-jest": "^25.1.0"
+  }
+}
